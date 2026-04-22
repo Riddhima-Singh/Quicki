@@ -8,16 +8,9 @@ A machine learning based fraud detection web app built using Streamlit and CatBo
 - Detect suspicious UPI transactions
 - Real-time prediction
 - Fraud probability score
-- Model comparison dashboard
 
 ## Tech Stack
 Python, Pandas, CatBoost, Streamlit, Scikit-learn
-
-## My Contribution
-- UI improvements
-- Deployment
-- Input validation
-- Testing
 
 
 ![alt text](image.png)
